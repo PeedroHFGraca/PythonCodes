@@ -1,0 +1,1 @@
+from UtilidadesCV import dado, moeda
